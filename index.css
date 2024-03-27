@@ -1,0 +1,39 @@
+.align_item{
+    align-items:flex-end;
+}
+
+.title{
+    background-color: aqua;
+    /* align-items: center; */
+    text-align: center;
+}
+
+.api_data{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 1%;
+    margin: 1%;
+}
+
+.api_data p{
+    font-weight: 300;
+}
+.hide{
+    display: none;
+}
+
+.class{
+    text-align: center;
+    margin: 1.7%;
+}
+
+.row{
+    margin: 2%;
+    padding: 2%;
+}
+
+#footer{
+    text-align: center;
+    padding: 2%;
+    font-size: larger;
+}
